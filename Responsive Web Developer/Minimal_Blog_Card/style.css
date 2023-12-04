@@ -50,6 +50,8 @@ body {
     height: 1px;
     background: #E5EAF0;
     margin-bottom: 20px;
+    width: 368px;
+    transform: translateX(-16px);
 }
 .card-author {
     font-size: 12px;
